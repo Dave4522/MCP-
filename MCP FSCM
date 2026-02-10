@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "MSLearn": {
+      "url": "https://learn.microsoft.com/api/mcp",
+      "type": "none"
+    },
+    "D365FO": {
+      "url": "https://usenvironment1.operations.dynamics.com/mcp",
+      "type": "https"
+    }
+  },
+  "inputs": []
+}
